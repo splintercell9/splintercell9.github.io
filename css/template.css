@@ -1,0 +1,29 @@
+
+
+* {
+    box-sizing: border-box ;
+}
+
+body {
+    min-height: 100% ;
+}
+
+#gname {
+    font-family: rubberbiscuit ;
+    font-size: 40pt ;
+    margin-bottom: 0px ;
+    margin-top: 10px ;
+    text-align: center ;
+    margin-top: 20px ;
+    text-shadow: 0px 0px 10px red ;
+}
+
+.link {
+    text-align: center ;
+    font-size: 10pt ;
+}
+
+.link > a {
+    color: black ;
+}
+
