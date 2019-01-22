@@ -9,14 +9,15 @@ canvas {
 }
 
 
-#info {
+div.info {
     text-align: center ;
-    position: relative;
-    top: 750px ;
+    position: absolute;
+    top: 800px ;
+    left: 28% ;
 }
 
 .link {
     position: absolute;
-    top: 900px ;
+    top: 850px ;
     left: 45% ;
 }
